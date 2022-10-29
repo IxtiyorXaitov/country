@@ -1,0 +1,1892 @@
+[
+  {
+    "countryIso": "AD",
+    "countryName": "Andorra",
+    "prefix": "376",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ad"
+  },
+  {
+    "countryIso": "AE",
+    "countryName": "United Arab Emirates",
+    "prefix": "971",
+    "minimumLength": 8,
+    "maximumLength": 15,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ae"
+  },
+  {
+    "countryIso": "AF",
+    "countryName": "Afghanistan",
+    "prefix": "93",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/af"
+  },
+  {
+    "countryIso": "AG",
+    "countryName": "Antigua",
+    "prefix": "1268",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ag"
+  },
+  {
+    "countryIso": "AI",
+    "countryName": "Anguilla",
+    "prefix": "1264",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ai"
+  },
+  {
+    "countryIso": "AL",
+    "countryName": "Albania",
+    "prefix": "355",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/al"
+  },
+  {
+    "countryIso": "AM",
+    "countryName": "Armenia",
+    "prefix": "374",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/am"
+  },
+  {
+    "countryIso": "AO",
+    "countryName": "Angola",
+    "prefix": "244",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ao"
+  },
+  {
+    "countryIso": "AR",
+    "countryName": "Argentina",
+    "prefix": "54",
+    "minimumLength": 12,
+    "maximumLength": 13,
+    "mask": "(999) 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ar"
+  },
+  {
+    "countryIso": "AS",
+    "countryName": "American Samoa",
+    "prefix": "1684",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/as"
+  },
+  {
+    "countryIso": "AT",
+    "countryName": "Austria",
+    "prefix": "43",
+    "minimumLength": 6,
+    "maximumLength": 15,
+    "mask": "999 999999",
+    "countryFlag": "https://countryflagsapi.com/svg/at"
+  },
+  {
+    "countryIso": "AU",
+    "countryName": "Australia",
+    "prefix": "61",
+    "minimumLength": 7,
+    "maximumLength": 14,
+    "mask": "9 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/au"
+  },
+  {
+    "countryIso": "AW",
+    "countryName": "Aruba",
+    "prefix": "297",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/aw"
+  },
+  {
+    "countryIso": "AZ",
+    "countryName": "Azerbaijan",
+    "prefix": "994",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/az"
+  },
+  {
+    "countryIso": "BA",
+    "countryName": "Bosnia & Herzegovina",
+    "prefix": "387",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ba"
+  },
+  {
+    "countryIso": "BB",
+    "countryName": "Barbados",
+    "prefix": "1246",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bb"
+  },
+  {
+    "countryIso": "BD",
+    "countryName": "Bangladesh",
+    "prefix": "880",
+    "minimumLength": 9,
+    "maximumLength": 13,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/bd"
+  },
+  {
+    "countryIso": "BE",
+    "countryName": "Belgium",
+    "prefix": "32",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "999 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/be"
+  },
+  {
+    "countryIso": "BF",
+    "countryName": "Burkina Faso",
+    "prefix": "226",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/bf"
+  },
+  {
+    "countryIso": "BG",
+    "countryName": "Bulgaria",
+    "prefix": "359",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "(999) 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/bg"
+  },
+  {
+    "countryIso": "BH",
+    "countryName": "Bahrain",
+    "prefix": "973",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bh"
+  },
+  {
+    "countryIso": "BI",
+    "countryName": "Burundi",
+    "prefix": "257",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 99 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bi"
+  },
+  {
+    "countryIso": "BJ",
+    "countryName": "Benin",
+    "prefix": "229",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/bj"
+  },
+  {
+    "countryIso": "BM",
+    "countryName": "Bermuda",
+    "prefix": "1441",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bm"
+  },
+  {
+    "countryIso": "BN",
+    "countryName": "Brunei Darussalam",
+    "prefix": "673",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bn"
+  },
+  {
+    "countryIso": "BO",
+    "countryName": "Bolivia",
+    "prefix": "591",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "9 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bo"
+  },
+  {
+    "countryIso": "BR",
+    "countryName": "Brazil",
+    "prefix": "55",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "99 99999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/br"
+  },
+  {
+    "countryIso": "BS",
+    "countryName": "The Bahamas",
+    "prefix": "1242",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bs"
+  },
+  {
+    "countryIso": "BT",
+    "countryName": "Bhutan",
+    "prefix": "975",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/bt"
+  },
+  {
+    "countryIso": "BW",
+    "countryName": "Botswana",
+    "prefix": "267",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/bw"
+  },
+  {
+    "countryIso": "BY",
+    "countryName": "Belarus",
+    "prefix": "375",
+    "minimumLength": 9,
+    "maximumLength": 14,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/by"
+  },
+  {
+    "countryIso": "BZ",
+    "countryName": "Belize",
+    "prefix": "501",
+    "minimumLength": 10,
+    "maximumLength": 14,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/bz"
+  },
+  {
+    "countryIso": "CA",
+    "countryName": "Canada",
+    "prefix": "1",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ca"
+  },
+  {
+    "countryIso": "CD",
+    "countryName": "Democratic Republic of  the Congo",
+    "prefix": "243",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cd"
+  },
+  {
+    "countryIso": "CF",
+    "countryName": "Central African Republic",
+    "prefix": "236",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/cf"
+  },
+  {
+    "countryIso": "CG",
+    "countryName": "Republic of the Congo",
+    "prefix": "242",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cg"
+  },
+  {
+    "countryIso": "CH",
+    "countryName": "Switzerland",
+    "prefix": "41",
+    "minimumLength": 11,
+    "maximumLength": 14,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ch"
+  },
+  {
+    "countryIso": "CK",
+    "countryName": "Cook Islands",
+    "prefix": "682",
+    "minimumLength": 8,
+    "maximumLength": 8,
+    "mask": "99 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ck"
+  },
+  {
+    "countryIso": "CL",
+    "countryName": "Chile",
+    "prefix": "56",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "9 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cl"
+  },
+  {
+    "countryIso": "CM",
+    "countryName": "Cameroon",
+    "prefix": "237",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cm"
+  },
+  {
+    "countryIso": "CN",
+    "countryName": "China",
+    "prefix": "86",
+    "minimumLength": 9,
+    "maximumLength": 14,
+    "mask": "999 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cn"
+  },
+  {
+    "countryIso": "CO",
+    "countryName": "Colombia",
+    "prefix": "57",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/co"
+  },
+  {
+    "countryIso": "CR",
+    "countryName": "Costa Rica",
+    "prefix": "506",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cr"
+  },
+  {
+    "countryIso": "CU",
+    "countryName": "Cuba",
+    "prefix": "53",
+    "minimumLength": 8,
+    "maximumLength": 12,
+    "mask": "9 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cu"
+  },
+  {
+    "countryIso": "CV",
+    "countryName": "Cape Verde",
+    "prefix": "238",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cv"
+  },
+  {
+    "countryIso": "CY",
+    "countryName": "Cyprus",
+    "prefix": "357",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/cy"
+  },
+  {
+    "countryIso": "CZ",
+    "countryName": "Czech Republic",
+    "prefix": "420",
+    "minimumLength": 12,
+    "maximumLength": 15,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/cz"
+  },
+  {
+    "countryIso": "DE",
+    "countryName": "Germany",
+    "prefix": "49",
+    "minimumLength": 6,
+    "maximumLength": 17,
+    "mask": "(9999) 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/de"
+  },
+  {
+    "countryIso": "DJ",
+    "countryName": "Djibouti",
+    "prefix": "253",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/dj"
+  },
+  {
+    "countryIso": "DK",
+    "countryName": "Denmark",
+    "prefix": "45",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/dk"
+  },
+  {
+    "countryIso": "DM",
+    "countryName": "Dominica",
+    "prefix": "1767",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/dm"
+  },
+  {
+    "countryIso": "DO",
+    "countryName": "Dominican Republic",
+    "prefix": "1",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/do"
+  },
+  {
+    "countryIso": "DZ",
+    "countryName": "Algeria",
+    "prefix": "213",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "999 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/dz"
+  },
+  {
+    "countryIso": "EC",
+    "countryName": "Ecuador",
+    "prefix": "593",
+    "minimumLength": 11,
+    "maximumLength": 14,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ec"
+  },
+  {
+    "countryIso": "EE",
+    "countryName": "Estonia",
+    "prefix": "372",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "9999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ee"
+  },
+  {
+    "countryIso": "EG",
+    "countryName": "Egypt",
+    "prefix": "20",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "99 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/eg"
+  },
+  {
+    "countryIso": "ER",
+    "countryName": "Eritrea",
+    "prefix": "291",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "9 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/er"
+  },
+  {
+    "countryIso": "ES",
+    "countryName": "Spain",
+    "prefix": "34",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/es"
+  },
+  {
+    "countryIso": "ET",
+    "countryName": "Ethiopia",
+    "prefix": "251",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/et"
+  },
+  {
+    "countryIso": "FI",
+    "countryName": "Finland",
+    "prefix": "358",
+    "minimumLength": 8,
+    "maximumLength": 15,
+    "mask": "(999) 999 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/fi"
+  },
+  {
+    "countryIso": "FJ",
+    "countryName": "Fiji",
+    "prefix": "679",
+    "minimumLength": 10,
+    "maximumLength": 14,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/fj"
+  },
+  {
+    "countryIso": "FK",
+    "countryName": "Falkland Islands (Malvinas)",
+    "prefix": "500",
+    "minimumLength": 8,
+    "maximumLength": 8,
+    "mask": "99999",
+    "countryFlag": "https://countryflagsapi.com/svg/fk"
+  },
+  {
+    "countryIso": "FM",
+    "countryName": "Micronesia",
+    "prefix": "691",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/fm"
+  },
+  {
+    "countryIso": "FR",
+    "countryName": "France",
+    "prefix": "33",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9 99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/fr"
+  },
+  {
+    "countryIso": "GA",
+    "countryName": "Gabon",
+    "prefix": "241",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "9 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/ga"
+  },
+  {
+    "countryIso": "GB",
+    "countryName": "United Kingdom",
+    "prefix": "44",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "9999 999999",
+    "countryFlag": "https://countryflagsapi.com/svg/gb"
+  },
+  {
+    "countryIso": "GD",
+    "countryName": "Grenada",
+    "prefix": "1473",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gd"
+  },
+  {
+    "countryIso": "GE",
+    "countryName": "Georgia",
+    "prefix": "995",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ge"
+  },
+  {
+    "countryIso": "GF",
+    "countryName": "French Guiana",
+    "prefix": "594",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gf"
+  },
+  {
+    "countryIso": "GH",
+    "countryName": "Ghana",
+    "prefix": "233",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gh"
+  },
+  {
+    "countryIso": "GI",
+    "countryName": "Gibraltar",
+    "prefix": "350",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gi"
+  },
+  {
+    "countryIso": "GL",
+    "countryName": "Greenland",
+    "prefix": "299",
+    "minimumLength": 9,
+    "maximumLength": 9,
+    "mask": "999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/gl"
+  },
+  {
+    "countryIso": "GM",
+    "countryName": "Gambia",
+    "prefix": "220",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gm"
+  },
+  {
+    "countryIso": "GN",
+    "countryName": "Guinea",
+    "prefix": "224",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/gn"
+  },
+  {
+    "countryIso": "GP",
+    "countryName": "Guadeloupe",
+    "prefix": "590",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "999 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/gp"
+  },
+  {
+    "countryIso": "GQ",
+    "countryName": "Equatorial Guinea",
+    "prefix": "240",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/gq"
+  },
+  {
+    "countryIso": "GR",
+    "countryName": "Greece",
+    "prefix": "30",
+    "minimumLength": 12,
+    "maximumLength": 14,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gr"
+  },
+  {
+    "countryIso": "GT",
+    "countryName": "Guatemala",
+    "prefix": "502",
+    "minimumLength": 11,
+    "maximumLength": 14,
+    "mask": "9 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gt"
+  },
+  {
+    "countryIso": "GU",
+    "countryName": "Guam",
+    "prefix": "1671",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gu"
+  },
+  {
+    "countryIso": "GW",
+    "countryName": "Guinea Bissau",
+    "prefix": "245",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/gw"
+  },
+  {
+    "countryIso": "GY",
+    "countryName": "Guyana",
+    "prefix": "592",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "9999999999",
+    "countryFlag": "https://countryflagsapi.com/svg/gy"
+  },
+  {
+    "countryIso": "HK",
+    "countryName": "Hong Kong",
+    "prefix": "852",
+    "minimumLength": 8,
+    "maximumLength": 14,
+    "mask": "9 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/hk"
+  },
+  {
+    "countryIso": "HN",
+    "countryName": "Honduras",
+    "prefix": "504",
+    "minimumLength": 11,
+    "maximumLength": 14,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/hn"
+  },
+  {
+    "countryIso": "HR",
+    "countryName": "Croatia",
+    "prefix": "385",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/hr"
+  },
+  {
+    "countryIso": "HT",
+    "countryName": "Haiti",
+    "prefix": "509",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ht"
+  },
+  {
+    "countryIso": "HU",
+    "countryName": "Hungary",
+    "prefix": "36",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/hu"
+  },
+  {
+    "countryIso": "ID",
+    "countryName": "Indonesia",
+    "prefix": "62",
+    "minimumLength": 9,
+    "maximumLength": 15,
+    "mask": "999 999999",
+    "countryFlag": "https://countryflagsapi.com/svg/id"
+  },
+  {
+    "countryIso": "IE",
+    "countryName": "Ireland",
+    "prefix": "353",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ie"
+  },
+  {
+    "countryIso": "IL",
+    "countryName": "Israel",
+    "prefix": "972",
+    "minimumLength": 10,
+    "maximumLength": 15,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/il"
+  },
+  {
+    "countryIso": "IN",
+    "countryName": "India",
+    "prefix": "91",
+    "minimumLength": 10,
+    "maximumLength": 15,
+    "mask": "99999 99999",
+    "countryFlag": "https://countryflagsapi.com/svg/in"
+  },
+  {
+    "countryIso": "IQ",
+    "countryName": "Iraq",
+    "prefix": "964",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/iq"
+  },
+  {
+    "countryIso": "IR",
+    "countryName": "Iran",
+    "prefix": "98",
+    "minimumLength": 6,
+    "maximumLength": 12,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ir"
+  },
+  {
+    "countryIso": "IS",
+    "countryName": "Iceland",
+    "prefix": "354",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/is"
+  },
+  {
+    "countryIso": "IT",
+    "countryName": "Italy",
+    "prefix": "39",
+    "minimumLength": 8,
+    "maximumLength": 14,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/it"
+  },
+  {
+    "countryIso": "JM",
+    "countryName": "Jamaica",
+    "prefix": "1658",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/jm"
+  },
+  {
+    "countryIso": "JO",
+    "countryName": "Jordan",
+    "prefix": "962",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "9 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/jo"
+  },
+  {
+    "countryIso": "JP",
+    "countryName": "Japan",
+    "prefix": "81",
+    "minimumLength": 10,
+    "maximumLength": 19,
+    "mask": "99 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/jp"
+  },
+  {
+    "countryIso": "KE",
+    "countryName": "Kenya",
+    "prefix": "254",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ke"
+  },
+  {
+    "countryIso": "KG",
+    "countryName": "Kyrgyzstan",
+    "prefix": "996",
+    "minimumLength": 12,
+    "maximumLength": 13,
+    "mask": "999 999999",
+    "countryFlag": "https://countryflagsapi.com/svg/kg"
+  },
+  {
+    "countryIso": "KH",
+    "countryName": "Cambodia",
+    "prefix": "855",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/kh"
+  },
+  {
+    "countryIso": "KI",
+    "countryName": "Kiribati",
+    "prefix": "686",
+    "minimumLength": 8,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ki"
+  },
+  {
+    "countryIso": "KM",
+    "countryName": "Comoros",
+    "prefix": "269",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/km"
+  },
+  {
+    "countryIso": "KP",
+    "countryName": "North Korea",
+    "prefix": "850",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "999 9999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/kp"
+  },
+  {
+    "countryIso": "KR",
+    "countryName": "South Korea",
+    "prefix": "82",
+    "minimumLength": 7,
+    "maximumLength": 16,
+    "mask": "99 9999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/kr"
+  },
+  {
+    "countryIso": "KW",
+    "countryName": "Kuwait",
+    "prefix": "965",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/kw"
+  },
+  {
+    "countryIso": "KY",
+    "countryName": "Cayman Islands",
+    "prefix": "1345",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ky"
+  },
+  {
+    "countryIso": "KZ",
+    "countryName": "Kazakhstan",
+    "prefix": "7",
+    "minimumLength": 11,
+    "maximumLength": 15,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/kz"
+  },
+  {
+    "countryIso": "LA",
+    "countryName": "Laos",
+    "prefix": "856",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "99 99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/la"
+  },
+  {
+    "countryIso": "LB",
+    "countryName": "Lebanon",
+    "prefix": "961",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/lb"
+  },
+  {
+    "countryIso": "LI",
+    "countryName": "Liechtenstein",
+    "prefix": "423",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/li"
+  },
+  {
+    "countryIso": "LK",
+    "countryName": "Sri Lanka",
+    "prefix": "94",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/lk"
+  },
+  {
+    "countryIso": "LR",
+    "countryName": "Liberia",
+    "prefix": "231",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/lr"
+  },
+  {
+    "countryIso": "LS",
+    "countryName": "Lesotho",
+    "prefix": "266",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ls"
+  },
+  {
+    "countryIso": "LT",
+    "countryName": "Lithuania",
+    "prefix": "370",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 99999",
+    "countryFlag": "https://countryflagsapi.com/svg/lt"
+  },
+  {
+    "countryIso": "LU",
+    "countryName": "Luxembourg",
+    "prefix": "352",
+    "minimumLength": 7,
+    "maximumLength": 14,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/lu"
+  },
+  {
+    "countryIso": "LV",
+    "countryName": "Latvia",
+    "prefix": "371",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 99999",
+    "countryFlag": "https://countryflagsapi.com/svg/lv"
+  },
+  {
+    "countryIso": "LY",
+    "countryName": "Libya",
+    "prefix": "218",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ly"
+  },
+  {
+    "countryIso": "MA",
+    "countryName": "Morocco",
+    "prefix": "212",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ma"
+  },
+  {
+    "countryIso": "MC",
+    "countryName": "Monaco",
+    "prefix": "377",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mc"
+  },
+  {
+    "countryIso": "MD",
+    "countryName": "Moldova",
+    "prefix": "373",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/md"
+  },
+  {
+    "countryIso": "ME",
+    "countryName": "Montenegro",
+    "prefix": "382",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/me"
+  },
+  {
+    "countryIso": "MG",
+    "countryName": "Madagascar",
+    "prefix": "261",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 99 999 99",
+    "countryFlag": "https://countryflagsapi.com/svg/mg"
+  },
+  {
+    "countryIso": "MH",
+    "countryName": "Marshall Islands",
+    "prefix": "692",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mh"
+  },
+  {
+    "countryIso": "MK",
+    "countryName": "Macedonia",
+    "prefix": "389",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999999",
+    "countryFlag": "https://countryflagsapi.com/svg/mk"
+  },
+  {
+    "countryIso": "ML",
+    "countryName": "Mali",
+    "prefix": "223",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ml"
+  },
+  {
+    "countryIso": "MM",
+    "countryName": "Myanmar",
+    "prefix": "95",
+    "minimumLength": 8,
+    "maximumLength": 12,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/mm"
+  },
+  {
+    "countryIso": "MN",
+    "countryName": "Mongolia",
+    "prefix": "976",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "99 99 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mn"
+  },
+  {
+    "countryIso": "MO",
+    "countryName": "Macao",
+    "prefix": "853",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mo"
+  },
+  {
+    "countryIso": "MP",
+    "countryName": "Northern Mariana Islands",
+    "prefix": "1670",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mp"
+  },
+  {
+    "countryIso": "MQ",
+    "countryName": "Martinique",
+    "prefix": "596",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "(999) 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/mq"
+  },
+  {
+    "countryIso": "MR",
+    "countryName": "Mauritania",
+    "prefix": "222",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mr"
+  },
+  {
+    "countryIso": "MS",
+    "countryName": "Montserrat",
+    "prefix": "1664",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ms"
+  },
+  {
+    "countryIso": "MT",
+    "countryName": "Malta",
+    "prefix": "356",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/mt"
+  },
+  {
+    "countryIso": "MU",
+    "countryName": "Mauritius",
+    "prefix": "230",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mu"
+  },
+  {
+    "countryIso": "MV",
+    "countryName": "Maldives",
+    "prefix": "960",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mv"
+  },
+  {
+    "countryIso": "MW",
+    "countryName": "Malawi",
+    "prefix": "265",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mw"
+  },
+  {
+    "countryIso": "MX",
+    "countryName": "Mexico",
+    "prefix": "52",
+    "minimumLength": 12,
+    "maximumLength": 13,
+    "mask": "(999) 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/mx"
+  },
+  {
+    "countryIso": "MY",
+    "countryName": "Malaysia",
+    "prefix": "60",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "(999) 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/my"
+  },
+  {
+    "countryIso": "MZ",
+    "countryName": "Mozambique",
+    "prefix": "258",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/mz"
+  },
+  {
+    "countryIso": "NA",
+    "countryName": "Namibia",
+    "prefix": "264",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/na"
+  },
+  {
+    "countryIso": "NE",
+    "countryName": "Niger",
+    "prefix": "227",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/ne"
+  },
+  {
+    "countryIso": "NG",
+    "countryName": "Nigeria",
+    "prefix": "234",
+    "minimumLength": 10,
+    "maximumLength": 17,
+    "mask": "99 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ng"
+  },
+  {
+    "countryIso": "NI",
+    "countryName": "Nicaragua",
+    "prefix": "505",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ni"
+  },
+  {
+    "countryIso": "NL",
+    "countryName": "Netherlands",
+    "prefix": "31",
+    "minimumLength": 7,
+    "maximumLength": 12,
+    "mask": "9 99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/nl"
+  },
+  {
+    "countryIso": "NO",
+    "countryName": "Norway",
+    "prefix": "47",
+    "minimumLength": 7,
+    "maximumLength": 10,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/no"
+  },
+  {
+    "countryIso": "NP",
+    "countryName": "Nepal",
+    "prefix": "977",
+    "minimumLength": 11,
+    "maximumLength": 14,
+    "mask": "99 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/np"
+  },
+  {
+    "countryIso": "NZ",
+    "countryName": "New Zealand",
+    "prefix": "64",
+    "minimumLength": 7,
+    "maximumLength": 12,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/nz"
+  },
+  {
+    "countryIso": "OM",
+    "countryName": "Oman",
+    "prefix": "968",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/om"
+  },
+  {
+    "countryIso": "PA",
+    "countryName": "Panama",
+    "prefix": "507",
+    "minimumLength": 10,
+    "maximumLength": 14,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/pa"
+  },
+  {
+    "countryIso": "PE",
+    "countryName": "Peru",
+    "prefix": "51",
+    "minimumLength": 10,
+    "maximumLength": 11,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/pe"
+  },
+  {
+    "countryIso": "PH",
+    "countryName": "Philippines",
+    "prefix": "63",
+    "minimumLength": 8,
+    "maximumLength": 15,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ph"
+  },
+  {
+    "countryIso": "PK",
+    "countryName": "Pakistan",
+    "prefix": "92",
+    "minimumLength": 10,
+    "maximumLength": 14,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/pk"
+  },
+  {
+    "countryIso": "PL",
+    "countryName": "Poland",
+    "prefix": "48",
+    "minimumLength": 8,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/pl"
+  },
+  {
+    "countryIso": "PR",
+    "countryName": "Puerto Rico",
+    "prefix": "1787",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/pr"
+  },
+  {
+    "countryIso": "PS",
+    "countryName": "Palestine",
+    "prefix": "970",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "999 99 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ps"
+  },
+  {
+    "countryIso": "PT",
+    "countryName": "Portugal",
+    "prefix": "351",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/pt"
+  },
+  {
+    "countryIso": "PW",
+    "countryName": "Palau",
+    "prefix": "680",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/pw"
+  },
+  {
+    "countryIso": "PY",
+    "countryName": "Paraguay",
+    "prefix": "595",
+    "minimumLength": 9,
+    "maximumLength": 14,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/py"
+  },
+  {
+    "countryIso": "QA",
+    "countryName": "Qatar",
+    "prefix": "974",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/qa"
+  },
+  {
+    "countryIso": "RO",
+    "countryName": "Romania",
+    "prefix": "40",
+    "minimumLength": 8,
+    "maximumLength": 11,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ro"
+  },
+  {
+    "countryIso": "RS",
+    "countryName": "Serbia",
+    "prefix": "381",
+    "minimumLength": 9,
+    "maximumLength": 15,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/rs"
+  },
+  {
+    "countryIso": "RU",
+    "countryName": "Russia",
+    "prefix": "7",
+    "minimumLength": 11,
+    "maximumLength": 15,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ru"
+  },
+  {
+    "countryIso": "RW",
+    "countryName": "Rwanda",
+    "prefix": "250",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/rw"
+  },
+  {
+    "countryIso": "SA",
+    "countryName": "Saudi Arabia",
+    "prefix": "966",
+    "minimumLength": 12,
+    "maximumLength": 13,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sa"
+  },
+  {
+    "countryIso": "SB",
+    "countryName": "Solomon Islands",
+    "prefix": "677",
+    "minimumLength": 8,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sb"
+  },
+  {
+    "countryIso": "SC",
+    "countryName": "Seychelles",
+    "prefix": "248",
+    "minimumLength": 10,
+    "maximumLength": 10,
+    "mask": "9 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/sc"
+  },
+  {
+    "countryIso": "SD",
+    "countryName": "Sudan",
+    "prefix": "249",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sd"
+  },
+  {
+    "countryIso": "SE",
+    "countryName": "Sweden",
+    "prefix": "46",
+    "minimumLength": 8,
+    "maximumLength": 14,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/se"
+  },
+  {
+    "countryIso": "SG",
+    "countryName": "Singapore",
+    "prefix": "65",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sg"
+  },
+  {
+    "countryIso": "SI",
+    "countryName": "Slovenia",
+    "prefix": "386",
+    "minimumLength": 8,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/si"
+  },
+  {
+    "countryIso": "SK",
+    "countryName": "Slovakia",
+    "prefix": "421",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/sk"
+  },
+  {
+    "countryIso": "SL",
+    "countryName": "Sierra Leone",
+    "prefix": "232",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/sl"
+  },
+  {
+    "countryIso": "SM",
+    "countryName": "San Marino",
+    "prefix": "378",
+    "minimumLength": 11,
+    "maximumLength": 13,
+    "mask": "9999 999999",
+    "countryFlag": "https://countryflagsapi.com/svg/sm"
+  },
+  {
+    "countryIso": "SN",
+    "countryName": "Senegal",
+    "prefix": "221",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sn"
+  },
+  {
+    "countryIso": "SR",
+    "countryName": "Suriname",
+    "prefix": "597",
+    "minimumLength": 9,
+    "maximumLength": 10,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sr"
+  },
+  {
+    "countryIso": "SS",
+    "countryName": "South Sudan",
+    "prefix": "211",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ss"
+  },
+  {
+    "countryIso": "SV",
+    "countryName": "El Salvador",
+    "prefix": "503",
+    "minimumLength": 10,
+    "maximumLength": 14,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sv"
+  },
+  {
+    "countryIso": "SX",
+    "countryName": "Sint Maarten (Dutch part)",
+    "prefix": "1721",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sx"
+  },
+  {
+    "countryIso": "SY",
+    "countryName": "Syria",
+    "prefix": "963",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/sy"
+  },
+  {
+    "countryIso": "SZ",
+    "countryName": "Eswatini",
+    "prefix": "268",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/sz"
+  },
+  {
+    "countryIso": "TC",
+    "countryName": "Turks and Caicos",
+    "prefix": "1649",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/tc"
+  },
+  {
+    "countryIso": "TD",
+    "countryName": "Chad",
+    "prefix": "235",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 99 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/td"
+  },
+  {
+    "countryIso": "TG",
+    "countryName": "Togo",
+    "prefix": "228",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/tg"
+  },
+  {
+    "countryIso": "TH",
+    "countryName": "Thailand",
+    "prefix": "66",
+    "minimumLength": 10,
+    "maximumLength": 15,
+    "mask": "9 9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/th"
+  },
+  {
+    "countryIso": "TJ",
+    "countryName": "Tajikistan",
+    "prefix": "992",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/tj"
+  },
+  {
+    "countryIso": "TM",
+    "countryName": "Turkmenistan",
+    "prefix": "993",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999999",
+    "countryFlag": "https://countryflagsapi.com/svg/tm"
+  },
+  {
+    "countryIso": "TN",
+    "countryName": "Tunisia",
+    "prefix": "216",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "99 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/tn"
+  },
+  {
+    "countryIso": "TO",
+    "countryName": "Tonga",
+    "prefix": "676",
+    "minimumLength": 8,
+    "maximumLength": 10,
+    "mask": "99999",
+    "countryFlag": "https://countryflagsapi.com/svg/to"
+  },
+  {
+    "countryIso": "TR",
+    "countryName": "Turkey",
+    "prefix": "90",
+    "minimumLength": 9,
+    "maximumLength": 15,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/tr"
+  },
+  {
+    "countryIso": "TT",
+    "countryName": "Trinidad and Tobago",
+    "prefix": "1868",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/tt"
+  },
+  {
+    "countryIso": "TW",
+    "countryName": "Taiwan",
+    "prefix": "886",
+    "minimumLength": 10,
+    "maximumLength": 14,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/tw"
+  },
+  {
+    "countryIso": "TZ",
+    "countryName": "Tanzania",
+    "prefix": "255",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/tz"
+  },
+  {
+    "countryIso": "UA",
+    "countryName": "Ukraine",
+    "prefix": "380",
+    "minimumLength": 12,
+    "maximumLength": 13,
+    "mask": "99 999 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/ua"
+  },
+  {
+    "countryIso": "UG",
+    "countryName": "Uganda",
+    "prefix": "256",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ug"
+  },
+  {
+    "countryIso": "US",
+    "countryName": "United States",
+    "prefix": "1",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/us"
+  },
+  {
+    "countryIso": "UY",
+    "countryName": "Uruguay",
+    "prefix": "598",
+    "minimumLength": 10,
+    "maximumLength": 13,
+    "mask": "9 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/uy"
+  },
+  {
+    "countryIso": "UZ",
+    "countryName": "Uzbekistan",
+    "prefix": "998",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 99 99",
+    "countryFlag": "https://countryflagsapi.com/svg/uz"
+  },
+  {
+    "countryIso": "VC",
+    "countryName": "St. Vincent",
+    "prefix": "1784",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/vc"
+  },
+  {
+    "countryIso": "VE",
+    "countryName": "Venezuela",
+    "prefix": "58",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "999 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ve"
+  },
+  {
+    "countryIso": "VG",
+    "countryName": "British Virgin Islands",
+    "prefix": "1284",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/vg"
+  },
+  {
+    "countryIso": "VI",
+    "countryName": "US Virgin Islands",
+    "prefix": "1340",
+    "minimumLength": 11,
+    "maximumLength": 11,
+    "mask": "999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/vi"
+  },
+  {
+    "countryIso": "VN",
+    "countryName": "Vietnam",
+    "prefix": "84",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "(999) 9999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/vn"
+  },
+  {
+    "countryIso": "VU",
+    "countryName": "Vanuatu",
+    "prefix": "678",
+    "minimumLength": 8,
+    "maximumLength": 10,
+    "mask": "99 99999",
+    "countryFlag": "https://countryflagsapi.com/svg/vu"
+  },
+  {
+    "countryIso": "WF",
+    "countryName": "Wallis & Futuna",
+    "prefix": "681",
+    "minimumLength": 9,
+    "maximumLength": 12,
+    "mask": "99 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/wf"
+  },
+  {
+    "countryIso": "WS",
+    "countryName": "Samoa",
+    "prefix": "685",
+    "minimumLength": 8,
+    "maximumLength": 13,
+    "mask": "99 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/ws"
+  },
+  {
+    "countryIso": "XK",
+    "countryName": "Kosovo",
+    "prefix": "383",
+    "minimumLength": 11,
+    "maximumLength": 12,
+    "mask": "9999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/xk"
+  },
+  {
+    "countryIso": "YE",
+    "countryName": "Yemen",
+    "prefix": "967",
+    "minimumLength": 10,
+    "maximumLength": 12,
+    "mask": "999 999 999",
+    "countryFlag": "https://countryflagsapi.com/svg/ye"
+  },
+  {
+    "countryIso": "ZA",
+    "countryName": "South Africa",
+    "prefix": "27",
+    "minimumLength": 7,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/za"
+  },
+  {
+    "countryIso": "ZM",
+    "countryName": "Zambia",
+    "prefix": "260",
+    "minimumLength": 12,
+    "maximumLength": 12,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/zm"
+  },
+  {
+    "countryIso": "ZW",
+    "countryName": "Zimbabwe",
+    "prefix": "263",
+    "minimumLength": 8,
+    "maximumLength": 13,
+    "mask": "99 999 9999",
+    "countryFlag": "https://countryflagsapi.com/svg/zw"
+  }
+]
